@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraLib", "CameraLib\CameraLib.csproj", "{2E68A189-5B6F-480E-84BD-1F1D287078A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safari", "Safari\Safari.csproj", "{784084A9-29A9-4BF9-AA7F-6D6EB024203D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafariContent", "Safari\Content\SafariContent.contentproj", "{A5B42B0B-ECEC-40E4-8036-3347CB21B52F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E68A189-5B6F-480E-84BD-1F1D287078A7}.Debug|x86.ActiveCfg = Debug|x86
+		{2E68A189-5B6F-480E-84BD-1F1D287078A7}.Debug|x86.Build.0 = Debug|x86
+		{2E68A189-5B6F-480E-84BD-1F1D287078A7}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{2E68A189-5B6F-480E-84BD-1F1D287078A7}.Release|x86.ActiveCfg = Release|x86
+		{2E68A189-5B6F-480E-84BD-1F1D287078A7}.Release|x86.Build.0 = Release|x86
+		{2E68A189-5B6F-480E-84BD-1F1D287078A7}.Release|Xbox 360.ActiveCfg = Release|x86
+		{784084A9-29A9-4BF9-AA7F-6D6EB024203D}.Debug|x86.ActiveCfg = Debug|x86
+		{784084A9-29A9-4BF9-AA7F-6D6EB024203D}.Debug|x86.Build.0 = Debug|x86
+		{784084A9-29A9-4BF9-AA7F-6D6EB024203D}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{784084A9-29A9-4BF9-AA7F-6D6EB024203D}.Release|x86.ActiveCfg = Release|x86
+		{784084A9-29A9-4BF9-AA7F-6D6EB024203D}.Release|x86.Build.0 = Release|x86
+		{784084A9-29A9-4BF9-AA7F-6D6EB024203D}.Release|Xbox 360.ActiveCfg = Release|x86
+		{A5B42B0B-ECEC-40E4-8036-3347CB21B52F}.Debug|x86.ActiveCfg = Debug|x86
+		{A5B42B0B-ECEC-40E4-8036-3347CB21B52F}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{A5B42B0B-ECEC-40E4-8036-3347CB21B52F}.Release|x86.ActiveCfg = Release|x86
+		{A5B42B0B-ECEC-40E4-8036-3347CB21B52F}.Release|Xbox 360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
